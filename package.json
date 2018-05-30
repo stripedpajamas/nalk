@@ -1,0 +1,23 @@
+{
+  "name": "nalk",
+  "version": "1.0.0",
+  "description": "not talking i.e. ~talking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stripedpajamas/nalk.git"
+  },
+  "keywords": [
+    "not",
+    "talking"
+  ],
+  "author": "Peter Squicciarini <stripedpajamas273@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stripedpajamas/nalk/issues"
+  },
+  "homepage": "https://github.com/stripedpajamas/nalk#readme"
+}
