@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "not talking i.e. ~talking",
   "main": "index.js",
+  "bin": {
+    "index.js": "nalk"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
