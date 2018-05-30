@@ -1,6 +1,6 @@
 {
   "name": "nalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "not talking i.e. ~talking",
   "main": "index.js",
   "bin": {
